@@ -31,8 +31,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-Here are some of the challenges I encountered 
-1. I
+Here are some of the challenges I encountered:
+1. I had trouble understanding the RecyclerView adapter while following the tutorial so I spent sometime reading the documentation.
+1. I initially couldn't get the button to align to the bottom of the screen because I didn't check the align_parent.
+1. The app kept on crashing but I didn't know I had to look Logcat until later.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
