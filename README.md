@@ -4,7 +4,7 @@
 
 Submitted by: **Yada Chuengsatiansup**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -26,14 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+Here are some of the challenges I encountered:
+1. I had trouble understanding the RecyclerView adapter while following the tutorial, so I spent some time reading the documentation.
+1. I initially couldn't get the button to align to the bottom of the screen because I didn't check the align_parent.
+1. The app kept on crashing, but I didn't know I had to look Logcat until later.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
