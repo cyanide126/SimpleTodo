@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 Here are some of the challenges I encountered:
 1. I had trouble understanding the RecyclerView adapter while following the tutorial, so I spent some time reading the documentation.
-1. I initially couldn't get the button to align to the bottom of the screen because I didn't check the align_parent.
+1. I initially couldn't get the button to align to the bottom of the screen because I didn't enable magnet.
 1. The app kept on crashing, but I didn't know I had to look Logcat until later.
 ## License
 
